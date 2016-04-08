@@ -1,6 +1,6 @@
 # phd_kommonkaufmanroutines
-# Various Authors
-# IDL
+- Various Authors
+- IDL
 
 An assortment of routines written by various people before 2011 in the Kaufman Group at
 Columbia University. Quite a few of these routines are required for running some of the later
